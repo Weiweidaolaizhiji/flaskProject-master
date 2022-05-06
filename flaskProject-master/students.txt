@@ -1,0 +1,3 @@
+{"name": "xw", "chinese": "11", "math": "22", "english": "4"}
+{"name": "admin", "chinese": "11", "math": "22", "english": "4"}
+{"name": "weiweidaolai", "chinese": "11", "math": "150", "english": "4"}
